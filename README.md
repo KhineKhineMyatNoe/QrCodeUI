@@ -58,7 +58,7 @@ I still need to learn about how to structure html tag element properly for both 
 ## Author
 
 - Github - [KhineKhineMyatNoe](https://github.com/KhineKhineMyatNoe)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/KhineKhineMyatNoe)
+- Frontend Mentor - [KhineKhineMyatNoe](https://www.frontendmentor.io/profile/KhineKhineMyatNoe)
 
 ## Acknowledgments
 
